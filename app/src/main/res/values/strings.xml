@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Call Recording</string>
+    <string name="enter_number">Enter number</string>
+    <string name="call">Call</string>
 </resources>
